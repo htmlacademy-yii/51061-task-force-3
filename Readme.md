@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Андрей Гладков](https://up.htmlacademy.ru/yii/3/user/51061).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Ходаковский](https://htmlacademy.ru/profile/id1232355).
 
 ---
 
